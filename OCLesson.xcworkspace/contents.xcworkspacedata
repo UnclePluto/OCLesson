@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:OCLesson2/OCLesson2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OCPractice01/OCPractice01.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OCLesson01/OCLesson01.xcodeproj">
+   </FileRef>
+</Workspace>
