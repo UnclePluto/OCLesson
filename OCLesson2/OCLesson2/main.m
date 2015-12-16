@@ -57,7 +57,7 @@
 -(void) divide:(double)value
 {
     if (value == 0) {
-        NSLog(@"零不能做除数");
+        NSLog(@"零不能做除数!");
         return ;
     }
     accumulator /= value;
