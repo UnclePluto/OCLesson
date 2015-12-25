@@ -2,6 +2,24 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:OCLesson07/OCLesson07.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OCLesson06/OCLesson06.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OCLesson05/OCLesson05.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OCLesson04/OCLesson04.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OCLesson03/OCLesson03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OCPractice02/OCPractice02.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:OCLesson2/OCLesson2.xcodeproj">
    </FileRef>
    <FileRef
